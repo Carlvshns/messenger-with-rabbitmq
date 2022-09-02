@@ -1,0 +1,3 @@
+libs\domains\dto\EstoqueDto.class
+libs\domains\dto\PrecoDto.class
+libs\domains\constantes\RabbitMQConstantes.class
